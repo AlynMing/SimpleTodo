@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Most of the challenges I faced while creating the Simple Todo app were mainly technical.
+Most of the challenges I faced while creating the Simple Todo app were mainly technical. I was unable to successfully set up the emulator on my local device, and I also ran into some trouble while following along with the videos. Lastly, I had complications with working within the terminal as I prepared to submit my project. All of these issues combined have been causes of my late submission, which was impossible to turn in on Tuesday since I had to go get a new computer on Tuesday just to do this.
 
 ## License
 
